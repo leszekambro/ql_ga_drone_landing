@@ -28,7 +28,7 @@ List of available files:
 
 drone_launch.py is a launch file to set up a system with a real UAV.
 
-After launching environment, run learning node by 'ros2 run Q_learn_GA_drone drone_qlearn_test' or another file.
+After launching environment, run learning node by `ros2 run Q_learn_GA_drone drone_qlearn_test` or another file.
 List of available nodes:
 - drone_qlearn_test - runs a node to test the Q-learning algorithm with a real UAV,
 - PyGadV6 - runs a node to simulate learning with a GA algorithm,

@@ -20,7 +20,7 @@ After installation, you need to replace `[your_username]` with your actual usern
 After making these changes, recompile the packages. 
 ---
 ## The simulation environment is launched via launch files.
-To run the environment, type in the terminal "ros2 launch Q_learn_GA_drone drone_world_launch_V2.py or another available file.
+To run the environment, type in the terminal `ros2 launch Q_learn_GA_drone drone_world_launch_V2.py` or another available file.
 List of available files:
 - drone_world_launch_V2.py - runs the world to learning at an accelerated time
 - drone_world_launch_V2.1.py - runs the world to learning with normal time
